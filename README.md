@@ -16,7 +16,8 @@ The task is episodic, and in order to solve the environment, the agents must get
 
 The environment is considered solved, when the average (over 100 episodes) of those **scores** is at least +0.5.
 
-### Getting Started
+# Getting Started
+
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
@@ -29,7 +30,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Place the file in the DRLND GitHub repository, in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
 
-### Instructions
+# Instructions
+
 Follow the instructions in `Tennis.ipynb` to get started with training your own agent! 
 
 # License
